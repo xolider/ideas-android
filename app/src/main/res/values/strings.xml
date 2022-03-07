@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ideas</string>
+    <string name="no_ideas_yet">You haven\'t written any ideas yet</string>
+    <string name="not_online">Not connected</string>
+    <string name="login">Log in</string>
+    <string name="my_ideas">My Ideas</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="internet_not_connected">Internet not connected. Your ideas will be saved locally</string>
+    <string name="close">Close</string>
+</resources>
