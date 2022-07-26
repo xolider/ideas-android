@@ -14,9 +14,6 @@
         android:theme="@style/Theme.Ideas"
         android:name=".IdeasApp">
         <activity
-            android:name=".activities.AuthActivity"
-            android:exported="false" />
-        <activity
             android:name=".activities.MainActivity"
             android:exported="true">
             <intent-filter>
